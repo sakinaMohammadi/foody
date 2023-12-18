@@ -1,6 +1,6 @@
   =>  Project Name    : Foody
 
-  =>  Project Link    : 
+  =>  Project Link    : https://foody.sakina-mohammadi.xyz/
 
   =>  Template Author  : Sakina Mohammadi
 
